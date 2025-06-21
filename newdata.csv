@@ -1,0 +1,15 @@
+Country,Region,Happiness_Score,GDP_per_Capita_USD,Social_Support,Literacy_Rate(%),Offline_School_Enrollment(%),Online_Education_Access(%),Median_Income_USD,Unemployment_Rate(%),Poverty_Rate(%)  
+India,South Asia,4.036,2450,0.797,77.7,73.2,22.5,2340,7.6,18.7  
+Pakistan,South Asia,4.516,1590,0.708,60.7,63.5,11.8,1560,6.5,21.9  
+Bangladesh,South Asia,5.155,2680,0.745,75.2,77.1,15.3,2550,4.1,14.8  
+Nepal,South Asia,5.269,1380,0.731,68.5,66.0,10.4,1300,4.3,15.1  
+Sri Lanka,South Asia,4.325,3350,0.832,92.3,97.6,18.9,3100,5.8,25.6  
+Afghanistan,South Asia,1.859,NA,0.517,38.1,45.0,2.8,NA,11.9,55.0  
+Saudi Arabia,Middle East,6.494,24500,0.853,98.2,96.0,27.4,26500,5.3,12.1  
+United Arab Emirates,Middle East,6.561,44200,0.892,94.5,90.2,38.2,41500,3.1,4.9  
+Iran,Middle East,4.785,3450,0.731,86.3,84.7,24.6,7800,10.2,24.7  
+Iraq,Middle East,4.411,5350,0.689,80.5,77.5,12.7,5200,13.5,18.3  
+Qatar,Middle East,6.375,62700,0.910,97.8,95.1,32.0,64000,0.5,0.1  
+Jordan,Middle East,4.956,4400,0.761,95.8,88.0,21.5,5800,19.5,13.9  
+Turkey,Middle East,4.744,10800,0.787,96.5,94.8,28.4,11500,10.8,14.2  
+Lebanon,Middle East,3.658,NA,0.512,95.2,79.0,25.1,NA,31.0,29.5  
